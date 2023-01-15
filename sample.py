@@ -1,7 +1,7 @@
 import numpy 
 
-a = 25
-b = 38
+a = 35
+b = 48
 
 sum = a + b
 

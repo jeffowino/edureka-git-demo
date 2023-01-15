@@ -1,7 +1,7 @@
 import numpy 
 
-a = 5
-b = 8
+a = 15
+b = 28
 
 sum = a + b
 
